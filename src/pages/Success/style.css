@@ -1,0 +1,31 @@
+body{
+    background-color: #383838;
+}
+.view{
+    width: 100vw;
+    height: 100vh;
+    background-color: #383838;
+}
+.msg{
+    background: #383838;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    text-align: center;
+}
+.msg > img{
+    background: #383838;
+    margin-bottom: 15px;
+}
+.msg > h4{
+    background: #383838;
+    color: white;
+    font-size: 20px;
+}
+.msg > p{
+    background: #383838;
+    color: #EEF0F5;
+    font-size: 16px;
+    margin-top: 10px;
+}

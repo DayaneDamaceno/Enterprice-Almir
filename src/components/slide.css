@@ -1,0 +1,22 @@
+.slide-container {
+    width: 64%;
+    margin: auto; 
+}
+   
+h3 {
+    text-align: center; 
+}
+   
+.each-slide > div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-size: cover;
+    height: 400px;
+}
+
+@media screen and (max-width: 1000px){
+    .slide-container{
+        width: 90%;
+    }
+}

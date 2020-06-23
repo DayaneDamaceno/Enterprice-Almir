@@ -55,9 +55,7 @@ form input[type="submit"]{
     transition: ease-in 0.2s;
     padding-left: 0;
 }
-form input[type="submit"]:hover{
-    background-color: #518fec;  
-}
+
 form textarea{
     width: 100%;
     background: #dddddd;

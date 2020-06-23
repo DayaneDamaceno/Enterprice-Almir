@@ -88,7 +88,7 @@ export default function Orcamento() {
                         required
                     />
 
-                    <input type="submit" value="Enviar"/>
+                    <button type="submit" value="Enviar">Enviar</button>
                 </form>
             </main>
         </div>

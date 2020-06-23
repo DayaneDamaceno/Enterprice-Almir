@@ -22,7 +22,7 @@ export default function Home() {
             <div className="container_main">
                 <div className="contents">
                     <div className="txt">
-                        <span className="name">- Enterprice Almir</span>
+                        <span className="name">- Serviços Almir</span>
                         <h1>Melhor serviço <br/> pelo <span>menor preço</span></h1>
                         <p> Conte-nos o que precisa, solicite um orçamento agora, sem compromisso. Decida o que é melhor pra você e para sua casa</p>
                         <Link to="/orcamento">
@@ -41,7 +41,7 @@ export default function Home() {
                 <div className="text">
                     <img src={citar} alt="citar"/>
                     <p>
-                        Trabalho a mais de 8 anos como pintor e pedreiro, dando cor e vida à casas, comercios e empresas, mantendo o profissionalismo e a qualidade para sempre satisfazer o gosto do cliente.
+                        Trabalho a mais de 10 anos como pintor e pedreiro, dando cor e vida à casas, comercios e empresas, mantendo o profissionalismo e a qualidade para sempre satisfazer o gosto do cliente.
                         <br/>
                         <span>- Almir Francisco</span>
                     </p>
@@ -93,7 +93,7 @@ export default function Home() {
             <div className="location">
                 <div className="local">
                     <img src={map} alt="local"/>
-                    <p>Atendimento em toda região metropolitana de SP e em todo ABC</p>
+                    <p>Atendimento em toda SP e na região do ABC</p>
                 </div>
             </div>
             <footer>

@@ -100,7 +100,7 @@ export default function Home() {
                 <div className="contatos">
                     <h4>Contatos</h4>
                     <p>Telefone: (11)97593-4508</p>
-                    <p>almir.damaceno@hotmail.com</p> 
+                    <p>servico.almir@gmail.com</p> 
                 </div>
                 <img src={logo} alt="logo"/>
             </footer>

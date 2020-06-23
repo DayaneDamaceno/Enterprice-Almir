@@ -7,7 +7,7 @@ export default function Success(){
     const history = useHistory();
     setTimeout(()=>{
         history.push('/')
-    }, 5000)
+    }, 3000)
     
 
     return(

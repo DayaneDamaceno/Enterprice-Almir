@@ -4,7 +4,7 @@
 
 ## Enterprice Almir
 
-Uma aplicação web para facilicitar o contato de um prestador de serviços com seus clientes, mostrando seus melhores trabalhos e oferencendo para ele uma maior área de alcance.
+Uma aplicação web para facilitar o contato de um prestador de serviços com seus clientes, mostrando seus melhores trabalhos e oferencendo para ele uma maior área de alcance.
 
 O cliente acessado o site pode vizualizar as habilidades e algumas fotos do profissional e se for de seu agrado pode solicitar um orçamento que ele ira receber posteriomente um e-mail ou mensagem contendo o mesmo.
 
